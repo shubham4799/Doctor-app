@@ -3,7 +3,7 @@
 This project is a Doctor App project built using Spring Boot with Java.
 
 ## Framework Used
-* Spring Boot
+* SpringBoot
 
 
 
