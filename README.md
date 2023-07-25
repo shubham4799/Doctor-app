@@ -13,7 +13,7 @@ This project is a Doctor App project built using Spring Boot with Java.
 
 ## Data Model
 
-The All ...ModelClass  is defined inside the model packages which has the following attributes:
+The All ModelClass  is defined inside the model packages which has the following attributes:
    
   
 
